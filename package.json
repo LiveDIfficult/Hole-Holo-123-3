@@ -1,0 +1,17 @@
+{
+  "name": "holohole",
+  "version": "1.0.0",
+  "description": "Discord Bot JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Livedifficult67",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2"
+  }
+}
